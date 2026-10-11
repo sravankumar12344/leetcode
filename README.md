@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sravankumar12344/leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/sravankumar12344/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/sravankumar12344/leetcode/tree/master/0704-binary-search) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sravankumar12344/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sravankumar12344/leetcode/tree/master/0027-remove-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sravankumar12344/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
