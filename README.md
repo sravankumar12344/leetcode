@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sravankumar12344/leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/sravankumar12344/leetcode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/sravankumar12344/leetcode/tree/master/0412-fizz-buzz) |
 ## Newton's Method
 |  |
 | ------- |
@@ -58,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sravankumar12344/leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/sravankumar12344/leetcode/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sravankumar12344/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
