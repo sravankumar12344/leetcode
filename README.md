@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sravankumar12344/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/sravankumar12344/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sravankumar12344/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sravankumar12344/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sravankumar12344/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sravankumar12344/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sravankumar12344/leetcode/tree/master/0704-binary-search) |
 ## Enumeration
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sravankumar12344/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sravankumar12344/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sravankumar12344/leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/sravankumar12344/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sravankumar12344/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sravankumar12344/leetcode/tree/master/0412-fizz-buzz) |
 ## Newton's Method
 |  |
@@ -71,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sravankumar12344/leetcode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
