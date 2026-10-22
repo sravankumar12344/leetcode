@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sravankumar12344/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sravankumar12344/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sravankumar12344/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sravankumar12344/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sravankumar12344/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sravankumar12344/leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sravankumar12344/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sravankumar12344/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sravankumar12344/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sravankumar12344/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sravankumar12344/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sravankumar12344/leetcode/tree/master/0412-fizz-buzz) |
 ## Newton's Method
@@ -90,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sravankumar12344/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sravankumar12344/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sravankumar12344/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sravankumar12344/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
