@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sravankumar12344/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sravankumar12344/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sravankumar12344/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sravankumar12344/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sravankumar12344/leetcode/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sravankumar12344/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
