@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sravankumar12344/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sravankumar12344/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sravankumar12344/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/sravankumar12344/leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/sravankumar12344/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sravankumar12344/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sravankumar12344/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sravankumar12344/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/sravankumar12344/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sravankumar12344/leetcode/tree/master/0412-fizz-buzz) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sravankumar12344/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/sravankumar12344/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sravankumar12344/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sravankumar12344/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
