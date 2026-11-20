@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sravankumar12344/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/sravankumar12344/leetcode/tree/master/0037-sudoku-solver) |
 | [0136-single-number](https://github.com/sravankumar12344/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sravankumar12344/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sravankumar12344/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sravankumar12344/leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/sravankumar12344/leetcode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/sravankumar12344/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -164,4 +166,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sravankumar12344/leetcode/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sravankumar12344/leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sravankumar12344/leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sravankumar12344/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sravankumar12344/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
